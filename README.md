@@ -14,4 +14,7 @@ The installation guide, running guide and many more can be found in git wiki:
 https://github.com/LRMPUT/PUTSLAM/wiki
 
 
+# TO DO by UcefMountacer
 
+## 1. convert scripts in python2 to python3
+## 2. add data prep for iphone 12 rgb-d data
