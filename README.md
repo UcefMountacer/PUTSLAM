@@ -42,9 +42,9 @@ convert it to python3
 -in the wiki : speciied wrong file to change the path to dataset
 instead : Go to PUTSLAM/ressources/datasetConfig, find xml with the right dataset name (or create own), modify path with the right one then in the putslamfileModel.xml, specify name of this xml inside datasetConfig
 
-- installing qt4 libs on ubuntu 20
+-installing qt4 libs on ubuntu 20
 https://ubuntuhandbook.org/index.php/2020/07/install-qt4-ubuntu-20-04/
 
-
+-build g2o before building putslam : is required I guess
 
 
